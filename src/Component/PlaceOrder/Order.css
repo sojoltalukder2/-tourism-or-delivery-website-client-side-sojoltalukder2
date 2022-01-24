@@ -1,0 +1,17 @@
+input{
+   margin-top: 15px;
+    justify-self:center;
+    width: 50vw;
+    /* border-radius: 2px; */
+}
+.orderdetails{
+    border:2px solid blueviolet;
+    border-radius: 20px;
+    padding: 30px;
+}
+.imageGallary{
+    border:1px solid firebrick;
+    border-radius: 10px;
+    padding: 10px;
+
+}

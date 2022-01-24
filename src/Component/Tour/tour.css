@@ -1,0 +1,15 @@
+.tour{
+    border:black 1px solid;
+    border-radius: 20px;
+    padding: 20px;
+    
+    /* height: 60%; */
+    margin-top: 30px;
+    /* margin-bottom: 100px; */
+    background-color: rgb(240, 237, 233);
+
+}
+.tour:hover{
+    background-color: rgb(183, 255, 225);
+    transform: scale(1.1);
+}
